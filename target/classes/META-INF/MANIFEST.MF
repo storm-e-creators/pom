@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Puissance4WebSocket
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: olivi_000
+Implementation-Vendor-Id: com.dev4tests
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/puissance4-websocket
+Created-By: Maven Integration for Eclipse
+
